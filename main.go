@@ -5,8 +5,8 @@ import (
   "os/exec"
 )
 
-var gitLocation = "C:\\cygwin64\\bin\\git.exe"
-var gitPullDirectory = "C:\\Users\\Jake Rosch\\AppData\\Roaming\\.minecraft\\mods"
+var gitLocation = ""
+var gitPullDirectory = ""
 
 var javaWLocation = "C:\\Program Files (x86)\\Minecraft Launcher\\runtime\\jre-x64\\bin\\javaw.exe"
 
